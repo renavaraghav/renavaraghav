@@ -26,10 +26,10 @@ Building useful products with **code, data, and AI** — from backend APIs and d
 
 I build practical software across **backend engineering, data systems, and AI-enabled products**. My work spans API development, data validation and ETL pipelines, analytics dashboards, and user-facing applications—with a focus on turning real problems into reliable, maintainable solutions.
 
-- ⚙️ **Engineering:** Python services, REST APIs, database-backed applications, and automated data workflows
-- 🌱 **Product & startup experience:** Led work on **Greensort.in**, a plant-selection platform featuring AI-driven recommendations and e-commerce workflows
-- 🧠 **Applied AI:** Machine-learning prototypes, intelligent product features, and data-driven decision support
-- 🎯 **Focus:** Building useful products with sound engineering, clear data flows, and thoughtful user experiences
+-  **Engineering:** Python services, REST APIs, database-backed applications, and automated data workflows
+-  **Product & startup experience:** Led work on **Greensort.in**, a plant-selection platform featuring AI-driven recommendations and e-commerce workflows
+-  **Applied AI:** Machine-learning prototypes, intelligent product features, and data-driven decision support
+-  **Focus:** Building useful products with sound engineering, clear data flows, and thoughtful user experiences
 
 </td>
 <td width="32%" valign="middle" align="center">
