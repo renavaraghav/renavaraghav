@@ -24,12 +24,12 @@ Building useful products with **code, data, and AI** — from backend APIs and d
 <tr>
 <td width="68%" valign="top">
 
-I'm a Computer Science and Engineering student in the **AI specialization track at Vel Tech, Chennai (YOP 2026)**. I enjoy solving real-world problems with reliable software — from data pipelines and APIs to AI-powered tools and thoughtful user experiences.
+I build practical software across **backend engineering, data systems, and AI-enabled products**. My work spans API development, data validation and ETL pipelines, analytics dashboards, and user-facing applications—with a focus on turning real problems into reliable, maintainable solutions.
 
-- 🛠️ **Building:** Python services, data-quality workflows, dashboards, and AI-enabled products
-- 🌱 **Startup experience:** Led work on **Greensort.in**, a student-led plant-selection and e-commerce initiative featuring AI-driven recommendations
-- 🧠 **Exploring:** Applied machine learning, intelligent tools, and better developer experiences
-- 🤝 **Interested in:** Software Engineering, Backend Engineering, Data Engineering, and AI/ML roles
+- ⚙️ **Engineering:** Python services, REST APIs, database-backed applications, and automated data workflows
+- 🌱 **Product & startup experience:** Led work on **Greensort.in**, a plant-selection platform featuring AI-driven recommendations and e-commerce workflows
+- 🧠 **Applied AI:** Machine-learning prototypes, intelligent product features, and data-driven decision support
+- 🎯 **Focus:** Building useful products with sound engineering, clear data flows, and thoughtful user experiences
 
 </td>
 <td width="32%" valign="middle" align="center">
