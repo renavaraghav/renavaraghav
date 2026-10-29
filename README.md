@@ -82,10 +82,8 @@ I'm a Computer Science and Engineering student in the **AI specialization track 
 
 <div align="center">
 
-<img src="./assets/profile-stats.svg" width="100%" alt="Profile snapshot: 9 public repositories, 3 followers, 2 following, 1 profile star; engineering focus areas and a link to native contribution activity." />
+<img src="./assets/profile-stats.svg" width="100%" alt="Profile snapshot as of 29 October 2026: 9 public repositories, 3 followers, 2 following, and 1 starred repository; engineering focus areas and a link to native contribution activity." />
 
-[![Followers](https://img.shields.io/github/followers/renavaraghav?style=for-the-badge&logo=github&label=Followers&color=161b22)](https://github.com/renavaraghav)
-[![Profile repository](https://img.shields.io/github/stars/renavaraghav/renavaraghav?style=for-the-badge&logo=github&label=Profile%20repo%20stars&color=161b22)](https://github.com/renavaraghav/renavaraghav)
 
 <a href="https://github.com/renavaraghav">Open GitHub profile for the live contribution calendar →</a>
 
