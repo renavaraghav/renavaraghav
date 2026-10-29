@@ -97,4 +97,6 @@ I build practical software across **backend engineering, data systems, and AI-en
 
 **Thanks for visiting my profile!** ✨
 
+<sub>🐾 Tiny commits, big dreams. Powered by curiosity (and occasional coffee). ☕</sub>
+
 </div>
