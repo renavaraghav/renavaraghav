@@ -6,7 +6,7 @@
  <rect x="410" y="10" width="380" height="260" rx="15" fill="url(#card)" stroke="#2c3543" stroke-width="2"/>
  <rect x="810" y="10" width="380" height="260" rx="15" fill="url(#card)" stroke="#2c3543" stroke-width="2"/>
  <rect x="30" y="31" width="5" height="23" rx="2" fill="#f3a5ad"/><text x="48" y="49" fill="#eef3fa" font-size="22" font-weight="700">GitHub Snapshot</text>
- <g fill="#bbc6d5" font-size="15"><text x="38" y="91">Public repositories</text><text x="38" y="132">Followers</text><text x="38" y="173">Following</text><text x="38" y="214">Stars on profile</text></g>
+ <g fill="#bbc6d5" font-size="15"><text x="38" y="91">Public repositories</text><text x="38" y="132">Followers</text><text x="38" y="173">Following</text><text x="38" y="214">Starred repositories</text></g>
  <g fill="#f0c2fa" font-size="23" font-weight="700" text-anchor="end"><text x="352" y="92">9</text><text x="352" y="133">3</text><text x="352" y="174">2</text><text x="352" y="215">1</text></g>
  <text x="38" y="247" fill="#738397" font-size="11">Snapshot from profile view · 29 Oct 2026</text>
  <rect x="430" y="31" width="5" height="23" rx="2" fill="#a88dff"/><text x="448" y="49" fill="#eef3fa" font-size="22" font-weight="700">Engineering Focus</text>
