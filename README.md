@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Let's Grow Together — Learn, Build, Solve, Create Impact" width="100%" />
+<img src="./banner-cute.svg" alt="Let's Grow Together — Learn, Build, Solve, Create Impact" width="100%" />
 
 <br/>
 
