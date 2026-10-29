@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Let's Grow Together</title>
+  <desc id="desc">Peach developer banner about building intelligent systems and making impact.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd5c7"/>
+      <stop offset="0.55" stop-color="#f8b9b3"/>
+      <stop offset="1" stop-color="#f3a9a8"/>
+    </linearGradient>
+    <linearGradient id="mountain" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#e8a49e"/>
+      <stop offset="1" stop-color="#946f8b"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <g fill="none" stroke="#fff4ee" stroke-linecap="round" opacity=".8">
+      <path d="M-30 205 L90 93" stroke-width="20"/><path d="M-20 250 L110 130" stroke-width="11"/>
+      <path d="M1035 12 L1130 -65" stroke-width="15"/><path d="M1090 60 L1200 -40" stroke-width="11"/><path d="M1125 105 L1230 10" stroke-width="7"/>
+    </g>
+    <g opacity=".55" fill="url(#mountain)">
+      <path d="M700 300 L835 198 L880 222 L968 113 L1024 173 L1085 135 L1200 235 L1200 300 Z"/>
+      <path d="M850 300 L968 113 L1008 177 L1055 154 L1148 236 L1200 214 L1200 300 Z" fill="#9d7890"/>
+    </g>
+    <g fill="#fff0e9" opacity=".9">
+      <path d="M968 113 L947 152 L970 143 L986 160 L1000 150 L1008 177 Z"/>
+      <path d="M1085 135 L1068 167 L1085 160 L1103 178 L1117 171 Z"/>
+    </g>
+    <g fill="#7c456f" opacity=".18">
+      <circle cx="900" cy="42" r="2"/><circle cx="932" cy="62" r="2"/><circle cx="870" cy="83" r="1.5"/><circle cx="1018" cy="35" r="2"/><circle cx="1045" cy="82" r="1.5"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif" fill="#49344d">
+      <text x="64" y="72" font-size="16" font-weight="700" letter-spacing="6">BUILDING</text>
+      <text x="64" y="99" font-size="16" font-weight="700" letter-spacing="6">INTELLIGENT</text>
+      <text x="64" y="126" font-size="16" font-weight="700" letter-spacing="6">SYSTEMS</text>
+      <path d="M65 148 H105" stroke="#49344d" stroke-width="2"/>
+    </g>
+    <text x="600" y="150" text-anchor="middle" fill="#23134f" font-family="'Brush Script MT','Segoe Script',cursive" font-size="82" font-style="italic" font-weight="500" letter-spacing="-2">Let's Grow Together</text>
+    <text x="600" y="207" text-anchor="middle" fill="#49344d" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="8">LEARN   •   BUILD   •   SOLVE   •   CREATE IMPACT</text>
+    <path d="M90 270 H520" stroke="#fff2ed" stroke-width="1.5" opacity=".7"/>
+  </g>
+</svg>
